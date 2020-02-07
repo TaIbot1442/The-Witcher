@@ -246,14 +246,14 @@ body{
 }
 
 .series-4{
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(..//img/series/series-4.jpg);
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(../img/series/series-4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .series-5{
-    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(..//img/series/Series-5.jpg);
+    background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url(../img/series/Series-5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
