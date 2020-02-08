@@ -102,7 +102,7 @@ body{
     -ms-align-items: center;
     align-items: center;
     margin-bottom: 10px;
-    animation-delay: 0.3s;
+    animation-delay: 0.1s;
 }
 
 .rating-number {
@@ -116,7 +116,7 @@ body{
     font-size: 76px;
     line-height: 89px;
     margin-bottom: 10px;
-    animation-delay: 0.5s;
+    animation-delay: 0.1s;
 }
 
 .main-description {
@@ -124,7 +124,7 @@ body{
     font-size: 14px;
     line-height: 150%;
     margin-bottom: 40px;
-    animation-delay: 0.7s;
+    animation-delay: 0.1s;
 }
 
 .button {
@@ -135,7 +135,7 @@ body{
     border: none;
     padding: 22px 72px;
     text-decoration: none;
-    animation-delay: 1s;
+    animation-delay: 0.1s;
 }
 .button:active{
     color: #fff;
